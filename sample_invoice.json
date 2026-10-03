@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "name": "Maintenance Visit",
+      "qty": 2,
+      "unit_price": 350
+    },
+    {
+      "name": "Spare Part X",
+      "qty": 1,
+      "unit_price": 1200
+    },
+    {
+      "name": "Lubricant",
+      "qty": 3,
+      "unit_price": 45
+    }
+  ]
+}
